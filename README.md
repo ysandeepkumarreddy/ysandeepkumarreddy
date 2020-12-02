@@ -52,8 +52,9 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy.github.io/4f433e2130273f02481e2329355b61e0e7e3d495/assets/img/jetbrains.svg"/></a></code>
 
 ## 📈 My GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysandeepkumarreddy&show_icons=true&locale=en&layout=compact" alt="ysandeepkumarreddy" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysandeepkumarreddy&show_icons=true&locale=en&layout=compact" alt="ysandeepkumarreddy" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" /></p>
+
  
 
 
