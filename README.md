@@ -6,7 +6,7 @@
   <img align="left" alt="Sandeep Kumar Reddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://dev.to/ysandeepkumarreddy">
-  <img align="left" alt="Sandeep's Dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/dev-dot-to.svg" />
+  <img align="left" alt="Sandeep's Dev" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/dev-dot-to.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ysandeepkumarreddy/">
   <img align="left" alt="Sandeep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
