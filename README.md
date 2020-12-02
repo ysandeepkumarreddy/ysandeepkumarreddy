@@ -28,7 +28,7 @@ Hi, I'm [Sandeep Kumar Reddy](https://www.ysandeep.me/), I am Web Developer & St
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python and C; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Sandeep Kumar Reddy](https://www.ysandeep.me/contact);
+- 📫 How to reach me: [Sandeep Kumar Reddy](https://www.ysandeep.me/contact)
 
 
 **Languages and Tools:**  
