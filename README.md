@@ -26,9 +26,9 @@ Hi, I'm [Sandeep Kumar Reddy](https://www.ysandeep.me/), I am Web Developer & St
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Python and C; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📫 How to reach me: [Sandeep Kumar Reddy](https://www.ysandeep.me/contact);
 
 
 **Languages and Tools:**  
