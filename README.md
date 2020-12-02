@@ -43,8 +43,7 @@ Hi, I'm [Sandeep Kumar Reddy](https://www.ysandeep.me/), I am Web Developer & St
 
 
 **📈 My GitHub Stats**
-<align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" />
 
 
 
