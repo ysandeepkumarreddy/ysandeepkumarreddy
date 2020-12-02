@@ -5,10 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> </p>
-
-<br/>
+### Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" />
 
 Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer & Student who dream making the world better place by creating differrnt Ideas. Beside's programming, I enjoy eating food and traveling.
 
@@ -40,8 +37,14 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy.github.io/4f433e2130273f02481e2329355b61e0e7e3d495/assets/img/jetbrains.svg"/></a></code>
 
 ## 📈 My GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysandeepkumarreddy&show_icons=true&locale=en&layout=compact" alt="ysandeepkumarreddy" />
-<p> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" /></p>
+<p align=center>
+  <a href="https://github.com/ysandeepkumarreddy/github-readme-stats" title="Go to Source">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham">
+  </a>
+  <a href="https://github.com/ysandeepkumarreddy/github-readme-stats">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  </a>
+</p>
 
  
 
