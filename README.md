@@ -24,7 +24,7 @@
 
 Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer & Student who dream making the world better place by creating differrnt Ideas. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 ## Talking about Personal Stuffs:
 
@@ -34,7 +34,7 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 - 📫 How to reach me: [Sandeep Kumar Reddy](https://www.ysandeep.me/contact)
 
 
-## Languages and Tools:
+## Languages:
 
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"></a></code>
@@ -43,9 +43,13 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 <code><a href="https://www.cprogramming.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"> <img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
 <code><img height="27" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
+
+## Tools:
 <code><a href="https://git-scm.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></a></code>
 <code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original-wordmark.svg"></a></code>
-
+<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
+<code><a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/sublime-text.png"/></a></code>
+<code><a href="https://www.jetbrains.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy.github.io/4f433e2130273f02481e2329355b61e0e7e3d495/assets/img/jetbrains.svg"/></a></code>
 
 ## 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" alt="ysandeepkumarreddy" />
