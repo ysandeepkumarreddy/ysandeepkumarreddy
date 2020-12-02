@@ -33,13 +33,15 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 
 ## Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"></a></code>
+<code><a href="https://www.w3.org/html/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"></a></code>
+<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></a></code>
+<code><a href="https://www.cprogramming.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"> <img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="27" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></a></code>
+<code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original-wordmark.svg"></a></code>
 
 
 ## 📈 My GitHub Stats
