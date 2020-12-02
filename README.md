@@ -1,13 +1,13 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://github.com/ysandeepkumarreddy/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ysandeepkumarreddy)
-[![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://https://www.ysandeep.me/)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
+[![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy)
 
 
-### Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" />![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social)
+### Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social)
 
 Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer & Student at **[Vemana Institute of Technology,Bengaluru](https://vemanait.edu.in/)**, who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
@@ -17,8 +17,9 @@ Hi, I'm **[Sandeep Kumar Reddy](https://www.ysandeep.me/)**, I am Web Developer 
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Sandeep Kumar Reddy](https://www.ysandeep.me/contact)
+- 📫 How to reach me: [Here!](https://www.ysandeep.me/contact)
 
 
 ## Languages:
