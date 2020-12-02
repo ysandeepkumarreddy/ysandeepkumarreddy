@@ -21,9 +21,9 @@
   <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> </p>
 
-<br />
+<br/>
 
 Hi, I'm [Sandeep Kumar Reddy](https://www.ysandeep.me/), I am Web Developer & Student who dream making the world better place by creating differrnt Ideas. Beside's programming, I enjoy eating food and traveling.
 
