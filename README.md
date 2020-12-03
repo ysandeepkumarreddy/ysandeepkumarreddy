@@ -6,10 +6,11 @@
 
 I am Web Developer & Student at **[Vemana Institute of Technology,Bengaluru](https://vemanait.edu.in/)**, who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="350" />
+ 
   
-## Talking about Personal Stuffs:
+## Talking about Personal Stuffs: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac) [![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
@@ -61,11 +62,5 @@ I am Web Developer & Student at **[Vemana Institute of Technology,Bengaluru](htt
 	</div>
 
 ### Show some ❤️ by starring some of the repositories!
-
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-[![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy)
 
 
