@@ -33,7 +33,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology,Bengaluru](htt
 <code><a href="https://git-scm.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></a></code>
 <code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original-wordmark.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
-<code><a href="https://www.sublimetext.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png"/></a></code>
+
 <code><a href="https://www.jetbrains.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy.github.io/4f433e2130273f02481e2329355b61e0e7e3d495/assets/img/jetbrains.svg"/></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 
