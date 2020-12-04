@@ -9,7 +9,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  
 ## Talking about Personal Stuffs: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac) [![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy) [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/6f6NFFdp)
 
-<img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="470" height="330"/>
+<img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="500" height="370"/>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
