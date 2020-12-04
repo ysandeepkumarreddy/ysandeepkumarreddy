@@ -1,6 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://github.com/ysandeepkumarreddy/)
 
-<img align="left" width="160" height="160" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/avatar.png"/>
+<img align="left" width="150" height="150" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/avatar.png"/>
 
 ### Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social)
 
@@ -9,7 +9,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  
 ## Talking about Personal Stuffs: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac) [![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy) [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/6f6NFFdp)
 
-<img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="430" height="350"/>
+<img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="430" height="300"/>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
