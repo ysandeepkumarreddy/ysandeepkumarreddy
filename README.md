@@ -32,7 +32,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="30" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Screenshot%20from%202020-12-04%2020-45-39.png"/></a></code>
-<code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original-wordmark.svg"></a></code>
+<code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"/></a></code>
 
@@ -50,7 +50,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> Lenovo Yoga 500</li>
+	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Instgram, Medium and Twitter</li>
@@ -58,9 +58,10 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	</ul>	
 </details>
 
-<div align="center">
-	</div>
 
 ### Show some ❤️ by starring some of the repositories!
+	
+
+
 
 
