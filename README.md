@@ -51,6 +51,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
+		<li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 480 GB SSD </li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Instgram, Medium and Twitter</li>
