@@ -50,7 +50,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b>Windows 10 20H2</li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
 		<li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 480 GB SSD </li>
   	    <li><b>Browser: </b> Google Chrome</li>
