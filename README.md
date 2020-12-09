@@ -29,7 +29,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
 
 ## Tools:
-
+<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
+<details>
 <code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="30" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Screenshot%20from%202020-12-04%2020-45-39.png"/></a></code>
