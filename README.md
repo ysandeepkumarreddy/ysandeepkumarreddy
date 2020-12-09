@@ -19,7 +19,6 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 
 ## Languages:
-
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"></a></code>
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"></a></code>
@@ -29,8 +28,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
 
 ## Tools:
-<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
-<details>
+
 <code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="30" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Screenshot%20from%202020-12-04%2020-45-39.png"/></a></code>
@@ -45,7 +43,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details> 
  
-
+<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
+<details>
 
  <details>	
   <br />
