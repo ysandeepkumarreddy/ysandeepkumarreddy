@@ -37,7 +37,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"/></a></code>
 
 ### Projects and Dev Stuffs:
-	<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
+<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
 <details>
 
   <summary><b>⚡ Github Stats</b></summary>
