@@ -35,10 +35,11 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"/></a></code>
-
-### Projects and Dev Stuffs:
 <img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
 <details>
+	
+### Projects and Dev Stuffs:
+
 
   <summary><b>⚡ Github Stats</b></summary>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" /> 
