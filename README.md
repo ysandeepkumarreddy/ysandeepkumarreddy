@@ -42,9 +42,9 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
   <summary><b>⚡ Github Stats</b></summary>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham"/) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham"/) 
 
-![GitHub metrics](https://metrics.lecoq.io/ysandeepkumarreddy)   
+![GitHub metrics](https://metrics.lecoq.io/ysandeepkumarreddy)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham)
   
 </details> 
 
