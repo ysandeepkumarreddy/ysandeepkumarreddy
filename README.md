@@ -7,7 +7,7 @@
 I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)**, Who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
  
-## Talking about Personal Stuffs: [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac) [![Website Badge](https://img.shields.io/badge/Portfoilo-3b5998?style=flat-square&logo=google-chrome&logoColor=white&color=blue)](https://https://www.ysandeep.me/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ysandeepkumarreddy) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ysandeepkumarreddy/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ysandeepkumarreddy) [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/6f6NFFdp)
+## Talking about Personal Stuffs:
 
 <img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="460" height="300"/>
 
@@ -66,7 +66,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/iamsandeep/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://twitter.com/iamsandeep/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
 &nbsp; <a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://t.me/ysandeepkumarreddy" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="50" /></a>
