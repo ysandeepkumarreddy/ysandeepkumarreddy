@@ -28,15 +28,16 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"> <img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
+<code><a href="https://sass-lang.com/" target="_blank"><img height="38" src="https://img.icons8.com/color/000000/sass.png"/></a></code>
+<code><a href="https://materializecss.com/" target="_blank"><img height="44" src="https://www.brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg"/></a></code>
 
 ## Tools:
 
-<code><a href="https://ubuntu.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg"></a></code>
-<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"></a></code>
-<code><a href="https://www.sublimetext.com/" target="_blank"><img height="30" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Screenshot%20from%202020-12-04%2020-45-39.png"/></a></code>
-<code><a href="https://www.gimp.org/" target="_blank"><img height="32" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
-<code><a href="https://www.darktable.org/" target="_blank"><img height="33" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img height="33" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
+<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
+<code><a href="https://www.sublimetext.com/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
+<code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
+<code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
+<code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
 
 ## Projects and Dev Stuffs:
 
