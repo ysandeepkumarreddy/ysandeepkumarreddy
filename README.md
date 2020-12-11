@@ -9,7 +9,7 @@
 I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** Who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
  
-## Talking about Personal Stuffs:
+## Talking about Personal Stuffs: 
 
 <img align="right" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="250" height="250"/>
 
