@@ -1,5 +1,9 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://github.com/ysandeepkumarreddy/)
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
 ### Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social)
 
 I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)**, Who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
@@ -7,7 +11,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  
 ## Talking about Personal Stuffs:
 
-<img align="right" alt="GIF" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/code.gif?raw=true" width="460" height="300"/>
+<img align="right" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="250" height="250"/>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
@@ -33,8 +37,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.gimp.org/" target="_blank"><img height="27" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"/></a></code>
-<img align="right" width="200" height="200" alt="Sandeep Kumar Reddy" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg"/>
-<details>
+
 	
 ### Projects and Dev Stuffs:
 
