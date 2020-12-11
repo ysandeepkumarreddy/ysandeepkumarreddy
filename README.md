@@ -44,7 +44,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  <details>
   <summary><b>⚡ Github Stats</b></summary>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham"/) 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham"/)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
 
@@ -54,11 +54,11 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>Windows 10 20H2</li>
+  	    <li><b>OS: </b>Windows 10 20H2 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
 		<li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 480 GB SSD </li>
-  	    <li><b>Browser: </b> Google Chrome</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	    <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/color/20/000000/chrome--v1.png"/></li>
+	    <li><b>Code Editor:</b> VSCode <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/> - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Instgram, Medium and Twitter</li>
 	    <br />
 	</ul>	
@@ -66,12 +66,13 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 ## Let's Connect :coffee:
 <p align="center">
-	<a href="https://telegram.dog/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/iamsandeep"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://ysandeep.me/"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="portfoilo"/></a>
+	<a href="https://telegram.dog/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/chrome.png" alt="portfoilo"/></a>
+	<a href="https://medium.com/@ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="medium-monogram"/></a>
 </p>
 
 
