@@ -43,8 +43,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham"/) 
 
-![GitHub metrics](https://metrics.lecoq.io/ysandeepkumarreddy)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&show_icons=true&count_private=true&theme=gotham)
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)](https://github.com/ysandeepkumarreddy/github-readme-streak-stats)
+
 </details> 
 
  <details>	
@@ -61,16 +61,14 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	</ul>	
 </details>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
+## Let's Connect :coffee:
 <p align="center">
-&nbsp; <a href="https://twitter.com/iamsandeep/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a> 
-&nbsp; <a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="https://t.me/ysandeepkumarreddy" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="50" /></a>
-&nbsp; <a href="https://mailhide.io/e/6f6NFFdp" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://ysandeep.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/geography.png"  width="50" /></a>	
-	
+	<a href="https://telegram.dog/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ysandeepkumarreddy/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/iamsandeep"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://ysandeep.me/"><img src="https://img.icons8.com/bubbles/50/000000/geography.png" alt="portfoilo"/></a>
 </p>
 
 
