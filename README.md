@@ -40,7 +40,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
+<code><a href="http://www.codeblocks.org/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
+<code><a href="https://www.figma.com/" target="_blank"><img height="37" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/></a></code>
 
 ## Projects and Dev Stuffs:
 
