@@ -26,10 +26,12 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></a></code>
 <code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></a></code>
-<code><a href="https://www.python.org" target="_blank"> <img height="30" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/django/django-original.svg"/></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank"><img height="38" src="https://img.icons8.com/color/000000/sass.png"/></a></code>
 <code><a href="https://materializecss.com/" target="_blank"><img height="44" src="https://www.brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg"/></a></code>
+
 
 ## Tools:
 
@@ -38,6 +40,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
+<code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
 
 ## Projects and Dev Stuffs:
 
