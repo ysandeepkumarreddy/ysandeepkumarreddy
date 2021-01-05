@@ -21,14 +21,14 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 
 ## Languages:
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"></a></code>
-<code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"></a></code>
-<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></a></code>
-<code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/django/django-original.svg"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></a></code>
+<code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
+<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
+<code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
+<code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank"><img height="38" src="https://img.icons8.com/color/000000/sass.png"/></a></code>
 <code><a href="https://materializecss.com/" target="_blank"><img height="44" src="https://www.brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg"/></a></code>
 
@@ -37,11 +37,10 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
-<code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://devicon.dev/devicon.git/icons/gimp/gimp-original.svg"></a></code>
+<code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
 <code><a href="http://www.codeblocks.org/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
-<code><a href="https://www.figma.com/" target="_blank"><img height="37" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"/></a></code>
 
 ## Projects and Dev Stuffs:
 
@@ -75,7 +74,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/chrome.png" alt="portfoilo"/></a>
-	<a href="https://medium.com/@ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png" alt="medium-monogram"/></a>
+	<a href="https://www.reddit.com/user/techy-guy7" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="reddit"/></a>
 </p>
 
 
