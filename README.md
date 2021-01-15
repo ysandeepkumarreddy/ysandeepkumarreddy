@@ -18,7 +18,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything, I am happy to help [Here!](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/issues/1)
 - 📫 How to reach me: [Click!](https://www.ysandeep.me/contact)
-- 📑 My CV: [Click Here](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Sandeep__Kumar_Reddy_-_CV.pdf)
+- 📑 My CV: [Click Here](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Sandeep__Kumar_Reddy_-_Student_%2C_Web_Developer_%2C_Blogger.pdf)
 
 
 ## Languages:
