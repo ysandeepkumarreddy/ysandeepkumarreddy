@@ -47,7 +47,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
  <details>
   <summary><b>⚡ Github Stats</b></summary>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" /> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" />
+	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
@@ -65,6 +66,12 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	    <li><b>Code Editor:</b> VSCode <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/> - The best editor out there</li>
 	    <br/>
 	</ul>	
+</details>
+
+<details>
+  <summary><b>📈 Graph</b></summary>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>	
 </details>
 
 ## Let's Connect :coffee:
