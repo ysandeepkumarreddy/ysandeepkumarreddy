@@ -24,6 +24,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 ## Languages:
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
 <code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
@@ -37,6 +38,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 ## Tools:
 
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png"></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
 <code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
@@ -76,17 +79,17 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 ## Let's Connect :coffee:
 <p align="center">
-	<a href="https://telegram.dog/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/chrome.png" alt="portfoilo"/></a>
-	<a href="https://www.reddit.com/user/techy-guy7" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/reddit.png" alt="reddit"/></a>
+	<a href="https://telegram.dog/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/telegram-app.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
+	<a href="https://www.reddit.com/user/techy-guy7" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
 </p>
 
 
-### Show some ❤️ by starring some of the repositories!
+## Show some ❤️ by starring some of the repositories!
 	
 
 
