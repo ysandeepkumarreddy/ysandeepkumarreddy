@@ -71,7 +71,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <details>
   <summary><b>📈 Graph</b></summary>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>	
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>	
 </details>
 
 ## Let's Connect :coffee:
