@@ -38,9 +38,9 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 ## Tools:
 
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png"></a></code>
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/></a></code>
-<code><a href="https://www.sublimetext.com/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
+<code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="37" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/></a></code>
+<code><a href="https://www.sublimetext.com/" target="_blank"><img height="37" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
 <code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
