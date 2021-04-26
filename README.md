@@ -64,7 +64,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   	<ul>
   	    <li><b>OS: </b>Windows 10 20H2 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
-	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 480 GB SSD </li>
+	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 512 GB SSD </li>
   	    <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/color/20/000000/chrome--v1.png"/></li>
 	    <li><b>Code Editor:</b> VSCode <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/> - The best editor out there</li>
 	    <br/>
