@@ -88,6 +88,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	<a href="https://www.reddit.com/user/techy-guy7" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
 </p>
 
+<img align="right" alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="250" height="80"/>
 
 ## Show some ❤️ by starring some of the repositories!
 	
