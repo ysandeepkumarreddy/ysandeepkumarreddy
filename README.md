@@ -11,8 +11,6 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
  
 ## Talking about Personal Stuffs: 
 
-<img align="right" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="250" height="250"/>
-
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python and C
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
@@ -45,6 +43,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
 <code><a href="http://www.codeblocks.org/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
+<code><a href="https://www.notion.so/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/></a></code>
 
 ## Projects and Dev Stuffs:
 
@@ -85,14 +84,14 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
-	<a href="https://www.reddit.com/user/techy-guy7" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
+	<a href="https://www.reddit.com/user/weird_techy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
 </p>
 
-<img align="right" alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="250" height="80"/>
+
 
 ## Show some ❤️ by starring some of the repositories!
 	
+<img align="left" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="150" height="150"/>
 
-
-
+<img align="right" alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="280" height="80"/>
 
