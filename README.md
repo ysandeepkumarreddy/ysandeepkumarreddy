@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://github.com/ysandeepkumarreddy/)
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://ysandeep.me)
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
