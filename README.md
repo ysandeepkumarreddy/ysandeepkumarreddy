@@ -92,6 +92,5 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 ## Show some ❤️ by starring some of the repositories!
 	
 <img align="left" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="150" height="150"/>
-
-<img align="right" alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="280" height="80"/>
+<img alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="280" height="80"/>
 
