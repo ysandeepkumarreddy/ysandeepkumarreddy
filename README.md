@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://ysandeep.me)
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://ysandeep.me) <a href="https://www.ysandeep.me/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
@@ -12,25 +12,25 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 ## Talking about Personal Stuffs: 
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Python and C
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 🌱 I’m currently learning Python, Java & Machine Learning
+- 🪂&nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything, I am happy to help [Here!](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/issues/1)
 - 📫 How to reach me: [Click!](https://www.ysandeep.me/contact)
-- 📑 My CV: [Click Here](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/Sandeep__Kumar_Reddy_-_Student_%2C_Web_Developer_%2C_Blogger%20(1).pdf)
+- 📑 My CV: [Discover!](https://resume.io/r/DlnWKLnJK) 🤟
 
 
 ## Languages:
 <code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.java.com/en/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
+<code><a href="https://www.java.com/en/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><a href="https://www.cprogramming.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
+<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
+<code><a href="https://www.cprogramming.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
 <code><a href="https://sass-lang.com/" target="_blank"><img height="38" src="https://img.icons8.com/color/000000/sass.png"/></a></code>
-<code><a href="https://materializecss.com/" target="_blank"><img height="44" src="https://www.brandeps.com/logo-download/M/Materialize-CSS-logo-vector-01.svg"/></a></code>
+<code><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/></a></code>
 
 
 ## Tools:
@@ -47,21 +47,11 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 ## Projects and Dev Stuffs:
 
- <details>
-  <summary><b>⚡ Github Stats</b></summary>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" />
-	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
-
-</details> 
-
  <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>Windows 10 20H2 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
+  	    <li><b>OS: </b>Windows 10 21H1 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
 	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 512 GB SSD </li>
   	    <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/color/20/000000/chrome--v1.png"/></li>
@@ -70,11 +60,16 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	</ul>	
 </details>
 
-<details>
-  <summary><b>📈 Graph</b></summary>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>	
-</details>
+ <details>
+  <summary><b>⚡ Github Stats</b></summary>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" />
+	
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
+</details> 
+
 
 ## Let's Connect :coffee:
 <p align="center">
