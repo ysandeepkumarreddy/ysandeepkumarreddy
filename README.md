@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://ysandeep.me) <a href="https://www.ysandeep.me/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://www.ysandeepkumarreddy.me) <a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
@@ -78,7 +78,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/twitter.png" alt="Twitter"/></a>
-	<a href="https://ysandeep.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
+	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
 	<a href="https://www.reddit.com/user/weird_techy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
 </p>
 
@@ -86,7 +86,10 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 
 ## Show some ❤️ by starring some of the repositories!
 	
-<img align="left" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="200" height="200"/>
+
 
 <img alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="280" height="80"/>
 
+<img align="left" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="200" height="200"/>
+
+<img alt="qr-code" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/qr-code%20(1).svg" width="200" height="200"/>
