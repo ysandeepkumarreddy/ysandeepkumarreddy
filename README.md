@@ -29,15 +29,14 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
-<code><a href="https://sass-lang.com/" target="_blank"><img height="38" src="https://img.icons8.com/color/000000/sass.png"/></a></code>
-<code><a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"/></a></code>
+<code><a href="https://www.uipath.com/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg"></a></code>
 
 
 ## Tools:
 
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
 <code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></a></code>
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img height="37" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/></a></code>
+<code><a href="https://www.uipath.com/product/automation-cloud" target="_blank"><img height="35" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/154139/b9744919-c01a-aefb-0588-58b122c74e47.png"/></a></code>
 <code><a href="https://www.sublimetext.com/" target="_blank"><img height="37" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
 <code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a></code>
 <code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
