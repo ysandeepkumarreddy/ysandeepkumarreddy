@@ -6,7 +6,7 @@
 
 ## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social)  <a href="https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55"><img src="https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg" alt="Total time coded since Nov 4 2020" /></a>
 
-I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** Who dream making the world better place by creating differrnt Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** Who dream making the world better place by creating different Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
  
 ## Talking about Personal Stuffs: 
@@ -50,7 +50,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>Windows 10 21H1 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
+  	    <li><b>OS: </b>Windows 11 21H2 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
 	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 512 GB SSD </li>
   	    <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/color/20/000000/chrome--v1.png"/></li>
