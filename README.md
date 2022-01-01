@@ -28,7 +28,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.cprogramming.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
 <code><a href="https://www.uipath.com/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg"></a></code>
 
 
@@ -50,23 +51,26 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>Windows 11 21H2 <img src="https://img.icons8.com/fluent/20/000000/windows-10.png"/> </li>
+  	    <li><b>OS: </b>Windows 11 21H2  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </li>
 	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
 	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 512 GB SSD </li>
-  	    <li><b>Browser: </b> Google Chrome <img src="https://img.icons8.com/color/20/000000/chrome--v1.png"/></li>
-	    <li><b>Code Editor:</b> VSCode <img src="https://img.icons8.com/fluent/20/000000/visual-studio-code-2019.png"/> - The best editor out there</li>
+  	    <li><b>Browser: </b> Google Chrome <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></li>
+	    <li><b>Code Editor:</b> VSCode <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> - The best editor out there</li>
 	    <br/>
 	</ul>	
 </details>
 
  <details>
   <summary><b>⚡ Github Stats</b></summary>
+	<ul>
+		
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham" />
 	
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8"/>  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
+	</ul>
 </details> 
 
 
