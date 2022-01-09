@@ -33,7 +33,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <code><a href="https://www.uipath.com/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg"></a></code>
 
 
-## Tools:
+## Tools: 
 
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
 <code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></a></code>
