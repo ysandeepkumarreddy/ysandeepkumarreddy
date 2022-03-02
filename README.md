@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://www.ysandeepkumarreddy.me) <a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://www.ysandeep.dev) <a href="https://www.ysandeep.dev/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
@@ -6,7 +6,8 @@
 
 ## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55)
 
-I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** Who dream making the world better place by creating different Ideas.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.Beside's programming, I enjoy eating food and traveling. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** 
+& a Front-End Developer and Application Developer based in Bengaluru. I am founder and CEO at BlackSquare. I am a dreamer and a fanatic of all digital things.I love minimal design and Technology. I've got more than 3 years of experience in digital products, tens of websites developed.
 
  
 ## Talking about Personal Stuffs: 
@@ -15,7 +16,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 - 🌱 I’m currently learning Python, Java & Machine Learning
 - 🪂&nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 💬 Ask me about anything, I am happy to help [Here!](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/issues/1)
-- 📫 How to reach me: [Click!](https://www.ysandeep.me/contact)
+- 📫 How to reach me: [Click!](https://www.ysandeep.dev) 📧
 - 📑 My CV: [Discover!](https://resume.io/r/DlnWKLnJK) 🤟
 
 
@@ -64,14 +65,18 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
   <summary><b>⚡ Github Stats</b></summary>
 	<ul>
 		
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysandeepkumarreddy&show_icons=true&theme=gotham&border_color=border_color" />
-	
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8&border_color=#D25E5D"/>  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=highcontrast)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
+ <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/ysandeepkumarreddy?cardType=level-alternate&theme=gotham&Title=B1DD08&Border=97BCDD&Ring=0E29DD" />
 		
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ysandeepkumarreddy&layout=compact)](https://github.com/ysandeepkumarreddy/github-readme-stats)		
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8&border_color=#D25E5D"/>  
+					
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=gotham"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ysandeepkumarreddy&layout=compact&theme=gotham"/>
+		
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysandeepkumarreddy&theme=github_dark"/>
+		
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ysandeepkumarreddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
+		
 	</ul>
 </details> 
 
@@ -85,16 +90,6 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/twitter.png" alt="Twitter"/></a>
 	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
 	<a href="https://www.reddit.com/user/weird_techy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
-</p>
-
-
-
-## Show some ❤️ by starring some of the repositories!
 	
-
-
-<img alt="qr-code spotify" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/spcode-5yD2O1s06FETI6tHZrYwIO%20(1).jpeg" width="280" height="80"/>
-
-<img align="left" alt="qr-code" src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/qr-code.svg?raw=true" width="200" height="200"/>
-
-<img alt="qr-code" src="https://raw.githubusercontent.com/ysandeepkumarreddy/ysandeepkumarreddy/main/qr-code%20(1).svg" width="200" height="200"/>
+</p>
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
