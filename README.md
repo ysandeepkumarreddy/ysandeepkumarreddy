@@ -77,7 +77,8 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 		
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ysandeepkumarreddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
 		
-	</ul>
+</ul>
+	
 </details> 
 
 
