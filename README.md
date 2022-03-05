@@ -70,8 +70,6 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysandeepkumarreddy&exclude_repo=KNN-Image-Classification&show_icons=true&theme=gotham&layout=compact&langs_count=8&border_color=#D25E5D"/>  
 					
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=gotham"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ysandeepkumarreddy&layout=compact&theme=gotham"/>
 		
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysandeepkumarreddy&theme=github_dark"/>
 		
