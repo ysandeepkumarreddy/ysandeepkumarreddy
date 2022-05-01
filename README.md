@@ -4,47 +4,50 @@
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
 </p>
 
-## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55)
+## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55) ![Twitter Follow](https://img.shields.io/twitter/follow/iamysandeep?style=social)
 
-I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** 
-& a Front-End Developer and Application Developer based in Bengaluru. I am founder and CEO at BlackSquare. I am a dreamer and a fanatic of all digital things.I love minimal design and Technology. I've got more than 3 years of experience in digital products, tens of websites developed.
+I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** 
+& a Front-End Developer and Application Developer based in Bengaluru.  I am a dreamer and a fanatic of all digital things.I love minimal design and Technology. I've got more than 3 years of experience in digital products, tens of websites developed.
 
  
 ## Talking about Personal Stuffs: 
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Python, Java & Machine Learning
-- 🪂&nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 💬 Ask me about anything, I am happy to help [Here!](https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/issues/1)
-- 📫 How to reach me: [Click!](https://www.ysandeep.dev) 📧
-- 📑 My CV: [Discover!](https://resume.io/r/DlnWKLnJK) 🤟
+* 🌍  I'm based in Bengaluru, India
+* 🖥️  See my portfolio at [ysandeep.dev](http://http://ysandeep.dev/)
+* ✉️  You can contact me at [sayhi@ysandeep.dev](mailto:sayhi@ysandeep.dev)
+* 🚀  I'm currently working on [Minimal PDF merger and Splitter Application just using Python](http://github.com/ysandeepkumarreddy/pdf-desktop-application/releases)
+* 🧠  I'm learning Android Development and RPA
+* 🤝  I'm open to collaborating on Projects which are minimal and interesting!
+* ⚡  I’m currently working on something cool
+*  🎯 Fun fact: Equal is Not Always Equal in JavaScript
 
 
 ## Languages:
-<code><a href="https://www.w3.org/html/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.java.com/en/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a></code>
-<code><a href="https://www.w3schools.com/cpp/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><a href="https://www.cprogramming.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
-<code><a href="https://www.python.org" target="_blank"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
-<code><a href="https://www.uipath.com/" target="_blank"><img height="30" src="https://cdn.worldvectorlogo.com/logos/uipath-3.svg"></a></code>
-
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
 
 ## Tools: 
-
-<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"></a></code>
-<code><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png"></a></code>
-<code><a href="https://www.uipath.com/product/automation-cloud" target="_blank"><img height="35" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/154139/b9744919-c01a-aefb-0588-58b122c74e47.png"/></a></code>
-<code><a href="https://www.sublimetext.com/" target="_blank"><img height="37" src="https://img.icons8.com/fluent/50/000000/sublime-text.png"/></a></code>
-<code><a href="https://www.gimp.org/" target="_blank"><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg"></a></code>
-<code><a href="https://www.darktable.org/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/512px-Darktable_icon.svg.png"/></a></code>
-<code><a href="https://www.netlify.com/" target="_blank"><img height="35" src="https://iconape.com/wp-content/png_logo_vector/netlify.png"/></a></code>
-<code><a href="http://www.codeblocks.org/" target="_blank"><img height="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"/></a></code>
-<code><a href="https://www.notion.so/" target="_blank"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"/></a></code>
+<p align="left">
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="Vscode" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" width="36" height="36" alt="Andriod Studio" /></a>
+<a href="https://www.uipath.com/" target="_blank" rel="noreferrer"><img src="https://uipath.com/cdn-cgi/image/format=auto/https://marketplace-cdn.uipath.com/images/user_images/698e5cf9-0af3-44e7-bde7-03897d753cb8.png" width="36" height="36" alt="UIPath" /></a>
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="36" height="36" alt="GIMP" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/ed44ae57571fe5fdba9c41a72c5bb0d2ed1dd86623c6d485ca248c61291bd6bc/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f4e6f74696f6e5f6170705f6c6f676f2e706e67" width="36" height="36" alt="Notion" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e28b554f829e78abca73c638e5f69fecda2d5fdad728bce751547a71d62f620d/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f706e675f6c6f676f5f766563746f722f6e65746c6966792e706e67" width="36" height="36" alt="Netlify" /></a>
+</p>
 
 ## Projects and Dev Stuffs:
 
@@ -92,3 +95,7 @@ I am Web Developer & Student at **[Vemana Institute of Technology, Bengaluru](ht
 	
 </p>
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ysandeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
