@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"> I'm [Sandeep Kumar Reddy!](https://www.ysandeep.dev) <a href="https://www.ysandeep.dev/" target="_blank"><img height="50" src="https://github.com/ysandeepkumarreddy/yskr-portfolio/blob/main/favicon.png?raw=true"/></a>
+# Hey there I'm [Sandeep Kumar Reddy!](https://www.ysandeep.dev) <a href="https://www.ysandeep.dev/" target="_blank"><img src="https://media4.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="78"> </a>
 
 <p align="center">
   <img src="https://github.com/ysandeepkumarreddy/ysandeepkumarreddy/blob/main/cover-sandeep.png" />
@@ -89,7 +89,7 @@ I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.ed
 	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/undefined/twitter-circled.png"/></a>
 	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
 	<a href="https://www.reddit.com/user/weird_techy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
 	
