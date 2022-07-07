@@ -13,7 +13,7 @@ I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.ed
 ## Talking about Personal Stuffs: 
 
 * 🌍  I'm based in Bengaluru, India
-* 🖥️  See my portfolio at [ysandeep.dev](http://http://ysandeep.dev/)
+* 🖥️  See my portfolio at [ysandeep.dev](https://ysandeep.dev/)
 * ✉️  You can contact me at [sayhi@ysandeep.dev](mailto:sayhi@ysandeep.dev)
 * 🚀  I'm currently working on [Minimal PDF merger and Splitter Application just using Python](http://github.com/ysandeepkumarreddy/pdf-desktop-application/releases)
 * 🧠  I'm learning Android Development and RPA
