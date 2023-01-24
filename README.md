@@ -18,7 +18,6 @@ I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.ed
 * 🚀  I'm currently working on [Minimal PDF merger and Splitter Application just using Python](http://github.com/ysandeepkumarreddy/pdf-desktop-application/releases)
 * 🧠  I'm learning Android Development and RPA
 * 🤝  I'm open to collaborating on Projects which are minimal and interesting!
-* ⚡  I’m currently working on something cool
 *  🎯 Fun fact: Equal is Not Always Equal in JavaScript
 
 
