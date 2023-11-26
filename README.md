@@ -54,9 +54,9 @@ I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.ed
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b>Windows 11 21H2  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </li>
-	    <li><b>Laptop: </b> Lenovo Yoga 500 14-ISK</li>
-	    <li><b>Specs:</b> Intel i5 6200U | GeForce 920M | 8GB Ram | 512 GB SSD </li>
+  	    <li><b>OS: </b>MacOS Sonoma <img height="20" src="https://i.pcmag.com/imagery/reviews/06RfdFpPwulpOiNTTPsjnFr-13..v1689175331.png"/> </li>
+	    <li><b>Laptop: </b>MacBook Air 2020</li>
+	    <li><b>Specs:</b> M1 Chip </li>
   	    <li><b>Browser: </b> Google Chrome <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></li>
 	    <li><b>Code Editor:</b> VSCode <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> - The best editor out there</li>
 	    <br/>
@@ -74,8 +74,6 @@ I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.ed
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ysandeepkumarreddy&theme=gotham"/>
 		
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ysandeepkumarreddy&theme=github_dark"/>
-		
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ysandeepkumarreddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ysandeepkumarreddy&theme=react-dark" /></a>
 		
 </ul>
 	
