@@ -6,8 +6,7 @@
 
 ## Glad to see you here! &nbsp;<img src="https://komarev.com/ghpvc/?username=ysandeepkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="ysandeepkumarreddy" /> ![](https://img.shields.io/github/followers/ysandeepkumarreddy?label=Follow&style=social) [![wakatime](https://wakatime.com/badge/user/89685b5b-ee36-49ba-a0ad-043b0a574e55.svg)](https://wakatime.com/@89685b5b-ee36-49ba-a0ad-043b0a574e55) ![Twitter Follow](https://img.shields.io/twitter/follow/iamysandeep?style=social)
 
-I'm Student at **[Vemana Institute of Technology, Bengaluru](https://vemanait.edu.in/)** 
-& a Front-End Developer and Application Developer based in Bengaluru.  I am a dreamer and a fanatic of all digital things.I love minimal design and Technology. I've got more than 3 years of experience in digital products, tens of websites developed.
+I'm currently immersed in the world of microcontrollers, developing complex Android applications that seamlessly bridge the gap between hardware and software.
 
  
 ## Talking about Personal Stuffs: 
