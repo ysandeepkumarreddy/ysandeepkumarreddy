@@ -84,14 +84,10 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 
 ## Let's Connect :coffee:
 <p align="center">
-	<a href="https://telegram.dog/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/telegram-app.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ysandeepkumarreddy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/iamsandeep" target="_blank"><img src="https://img.icons8.com/bubbles/60/undefined/twitter-circled.png"/></a>
-	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>
-	<a href="https://www.reddit.com/user/weird_techy/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/reddit.png" alt="reddit"/></a>
-	
+	<a href="https://www.ysandeepkumarreddy.me/" target="_blank"><img src="https://img.icons8.com/bubbles/60/000000/chrome.png" alt="portfoilo"/></a>	
 </p>
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
