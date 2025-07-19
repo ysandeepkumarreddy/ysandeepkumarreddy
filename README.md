@@ -91,6 +91,6 @@ I'm currently immersed in the world of microcontrollers, developing complex Andr
 </p>
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
-### Support Me
+## 📊 Weekly Coding Breakdown
 
-<a href="https://www.buymeacoffee.com/ysandeep"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+![WakaTime Stats](https://wakatime.com/share/@ysandeepkumarreddy/c9957474-c574-46fe-a0b9-f8bdf337c20b.svg)
